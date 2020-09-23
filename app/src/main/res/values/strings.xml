@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Scorekeeper</string>
+    <string name="decrease_button1_desc">Button to decrease team 1 score</string>
+    <string name="increase_button1_desc">Button to increase team 1 score</string>
+    <string name="decrease_button2_desc">Button to decrease team 2 score</string>
+    <string name="increase_button2_desc">Button to increase team 2 score</string>
+    <string name="team_initial_score">0</string>
+    <string name="name_of_team1">Team 1</string>
+    <string name="name_of_team2">Team 2</string>
+</resources>
